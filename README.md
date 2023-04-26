@@ -10,7 +10,7 @@ I am an aspiring backend-developer, interested in developing in Go and Python. I
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=profectus200&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=profectus200&theme=algolia&no-frame=true&no-bg=true&margin-w=1)
+![](https://github-profile-trophy.vercel.app/?username=profectus200&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=profectus200&icon=3&color=6)](https://visitcount.itsvg.in)
