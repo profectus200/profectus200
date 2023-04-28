@@ -9,9 +9,9 @@ I am an aspiring backend-developer, interested in developing in Go and Python. I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=profectus200&theme=blue-green&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profectus200&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=profectus200&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=profectus200&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=profectus200&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=profectus200&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=profectus200&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=profectus200&theme=blue_green&utcOffset=8)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=profectus200&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
