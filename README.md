@@ -18,4 +18,4 @@ I am an aspiring backend-developer, interested in developing in Go and Python. I
 ![](https://github-profile-trophy.vercel.app/?username=profectus200&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=-1)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=profectus200&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=profectus200&icon=3&color=6)](https://visitcount.itsvg.in) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vldmr11)
