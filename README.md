@@ -14,7 +14,5 @@ I am an aspiring backend-developer, interested in developing in Go and Python. I
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=profectus200&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=profectus200&icon=3&color=6)](https://visitcount.itsvg.in)
